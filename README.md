@@ -14,4 +14,6 @@ www.patika.dev.tr java101 eğitimi kapsamında yazılan kod örnekleri
 
 7-Verilen km'ye göre Taksimetre tutarı hesaplayan program 
 
-8-Vücut kitle indeksi hesaplayan program.
+8-Kenarları verilen bir üçgenin alanını bulma programı
+
+9-Vücut kitle indeksi hesaplayan program.
